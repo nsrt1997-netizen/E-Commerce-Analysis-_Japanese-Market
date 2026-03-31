@@ -10,4 +10,4 @@ This project focuses on analyzing the E-commerce landscape in Japan, covering sa
 
 1. Data Cleaning (Excel): Handled missing values, formatted currency/units, and prepared the raw data for analysis.
 2. Exploratory Data Analysis (Python): Used Pandas and Matplotlib to identify growth patterns and ROI metrics.
-3. 
+!
